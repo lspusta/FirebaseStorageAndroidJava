@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "514360181773",
+    "firebase_url": "https://fir-firestorageandroid.firebaseio.com",
+    "project_id": "fir-firestorageandroid",
+    "storage_bucket": "fir-firestorageandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514360181773:android:7616850f7d3ec9855cc144",
+        "android_client_info": {
+          "package_name": "itkido.me.androidfirebasestoragejava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514360181773-rqt5991qf8qt74ck20a631rg41nhet1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuXCI1ObX3fOuhju19ck3RXTb4lg3SQNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514360181773-rqt5991qf8qt74ck20a631rg41nhet1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
